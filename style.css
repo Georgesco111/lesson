@@ -1,0 +1,21 @@
+.nav-header
+{
+	background-color: white;
+}
+
+.nav-ul
+{
+	list-style-type: none;
+	float: right;
+}
+
+.nav-li
+{
+	display: inline-block;
+}
+
+.nav-logo
+{
+	width: 200px;
+	float: left;
+}
